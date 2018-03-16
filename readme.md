@@ -20,7 +20,7 @@ Currently serve on the military (2018.03 ~ 2019.12), so your reply may be very d
 ## Experience
 Term | Detail | Part | Tech
 ---- | ------ | --- | --- |
-2017.04 ~ 2018.03 | [KUPLEZONE (Korea University (Sejong) Online Community Service)]((https://kuple.kr) in [UNIAD](http://uniad.biz/) | Operator & Developer | Web(PHP, Node.js) & Windows Programming (C#)
+2017.04 ~ 2018.03 | [KUPLEZONE (Korea University (Sejong) Online Community Service)](https://kuple.kr) in [UNIAD](http://uniad.biz/) | Operator & Developer | Web(PHP, Node.js) & Windows Programming (C#)
 2017.09 ~ 2018.01 | [SW Maestro 8th](http://swmaestro.kr) Project(Posture correction solution using foot pressure) | Team Leader(Mentee) | Embedded Programming with ARM(NRF) Processor - BLE Communication & Analog Filtering
 
 
