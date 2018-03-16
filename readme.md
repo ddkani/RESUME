@@ -24,15 +24,19 @@ Term | Detail | Part | Tech
 2017.09 ~ 2018.01 | [SW Maestro 8th](http://swmaestro.kr) Project(Posture correction solution using foot pressure) | Team Leader(Mentee) | Embedded Programming with ARM(NRF) Processor - BLE Communication & Analog Filtering
 
 
+
 ### Personal Project
 Term | Detail | Tech
 ---- | ------ | --- |
 2018.03 ~ | [RIPPRI(리프리닷컴) / BETA](https://rippri.com) CryptoCurrency Profit Margin Offer Online Service | Python(Django REST Framework, Celery), Angular.js
 
+
+
 ### Outsourcing
 Year | Detail | Part | Tech
 --- | ------ | --- | --- |
 2017 | [Korea University Sejong Campus - Online Student Student Survey Service](http://kuvey.korea.ac.kr) | Web Backend & Frontend developer | Node.js(backend), Angular.js(frontend)
+
 
 
 ### Awards and Participation
