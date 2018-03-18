@@ -2,7 +2,6 @@
 
 <a href="mailto:live2skull@gmail.com">![Email](https://img.shields.io/badge/email-live2skull@gmail.com-164415.svg)</a>
 
-
 ## Who am I
 I'm Haechan Yang(live2skull), a 22-year-old junior developer living in Sejong-city, South Korea. I usually produces code, simple web page.
 
@@ -23,21 +22,21 @@ Term | Detail | Part | Tech
 2017.04 ~ 2018.03 | [KUPLEZONE (Korea University (Sejong) Online Community Service)](https://kuple.kr) in [UNIAD](http://uniad.biz/) | Operator & Developer | Web(PHP, Node.js) & Windows Programming (C#)
 2017.09 ~ 2018.01 | [SW Maestro 8th](http://swmaestro.kr) Project(Posture correction solution using foot pressure) | Team Leader(Mentee) | Embedded Programming with ARM(NRF) Processor - BLE Communication & Analog Filtering
 
-
+<br/>
 
 ### Personal Project
 Term | Detail | Tech
 ---- | ------ | --- |
 2018.03 ~ | [RIPPRI(리프리닷컴) / BETA](https://rippri.com) CryptoCurrency Profit Margin Offer Online Service | Python(Django REST Framework, Celery), Angular.js
 
-
+<br/>
 
 ### Outsourcing
 Year | Detail | Part | Tech
 --- | ------ | --- | --- |
 2017 | [Korea University Sejong Campus - Online Student Student Survey Service](http://kuvey.korea.ac.kr) | Web Backend & Frontend developer | Node.js(backend), Angular.js(frontend)
 
-
+<br/>
 
 ### Awards and Participation
 Year | Detail | Position | Result | Idea
