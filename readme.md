@@ -34,7 +34,7 @@ Term | Detail | Tech
 ### Outsourcing
 Year | Detail | Part | Tech
 --- | ------ | --- | --- |
-2017 | [Korea University Sejong Campus - Online Student Survey Service](http://kuvey.korea.ac.kr) | Web Backend & Frontend developer | Node.js(backend), Angular.js(frontend)
+2017 | [Korea University Sejong Campus - Student Survey Online Service](http://kuvey.korea.ac.kr) | Web Backend & Frontend developer | Node.js(backend), Angular.js(frontend)
 
 <br/>
 
