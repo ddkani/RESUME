@@ -5,7 +5,7 @@
 ## Who am I
 I'm Haechan Yang(live2skull), a 22-year-old junior developer living in Sejong-city, South Korea. I usually writes code, simple web page.
 
-Currently serve on the military (2018.03 ~ 2019.12), so your reply may be very delayed.😅
+Currently serve on the military (2018.03 ~ 2019.11), so your reply may be very delayed.😅
 
 ----
 
