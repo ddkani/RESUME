@@ -41,10 +41,9 @@ Year | Detail | Part | Tech
 ### Awards and Participation
 Year | Detail | Position | Result | Idea
 --- | --- | --- | --- | --- |
-2014 | [Hacking Contest (Youth Competition) - Soonchunhyang University](https://homepage.sch.ac.kr/sch/index.jsp) | Individual Participation | 6th Prize | -
-2015 | [Hacking Contest (Youth Competition) - Seoul  Hoseo Colleage](http://www.shoseo.ac.kr/) | Individual Participation | 5th Prize | -
 2016 | Korea University Sejong Campus - IoT Lectures for Elementary School Students  | Mentor | - | Happy Arduino coding :)
 2017 | [NTREX 2017 IoT Project Competition](http://www.ntrexgo.com/archives/33666) | S/W Developer(Android, Django REST API) | 5th Prize | Navigation service for blind people using vibration with Android application and ARM processor.
+2018 | [Open Source Academy for Military 2018](http://osam.oss.kr) | REST API Server, Documentation | 1st Prize | Car sharing platform for soliders.
 
 ----
 
