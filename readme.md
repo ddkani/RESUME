@@ -48,7 +48,7 @@ Year | Detail | Position | Result | Idea
 ## Education
 ### Degree
 1. Dankook University Jukjeon Campus (2020.03 ~ )
-    - BS (undergraduate) in [Applied Computer Engineering](http://cms.dankook.ac.kr/web/ace) from [SW Convergence College]
+    - BS (undergraduate) in [Computer Engineering](http://cms.dankook.ac.kr/web/ace) from [SW Convergence College]
 
 ----
 
