@@ -3,7 +3,7 @@
 <a href="mailto:live2skull@gmail.com">![Email](https://img.shields.io/badge/email-live2skull@gmail.com-164415.svg)</a>
 
 ## Who am I
-I'm Haechan Yang(live2skull), a 24-year-old junior developer living in Sejong-city, South Korea. I usually writes code, simple web page.
+I'm Haechan Yang(live2skull), a 24-year-old junior developer living in Yongin-city, South Korea. I usually writes code, simple web page.
 
 ----
 
@@ -47,7 +47,7 @@ Year | Detail | Position | Result | Idea
 
 ## Education
 ### Degree
-1. Dankook University Jukjeon Campus (2020.03 ~ )
+1. Dankook University (2020.03 ~ )
     - BS (undergraduate) in [Computer Engineering](http://cms.dankook.ac.kr/web/ace) from [SW Convergence College]
 
 ----
